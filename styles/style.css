@@ -48,19 +48,19 @@ p, h1, h2, h3, h4, h5 {
 }
 
 .header__subtitle {
-position: absolute;
-z-index: 2;
-line-height: 25px;
-font-size: 18px;
-width: 388px;
-left: 64px;
-bottom: 30px;
-font-weight: normal;
+  position: absolute;
+  z-index: 2;
+  line-height: 25px;
+  font-size: 18px;
+  width: 388px;
+  left: 64px;
+  bottom: 30px;
+  font-weight: normal;
 }
 
 .header__link {
-text-decoration: none;
-color: #2f80ed;
+  text-decoration: none;
+  color: #2f80ed;
 }
 
 .header__main-illustration {
@@ -193,7 +193,7 @@ color: #2f80ed;
 /*>>> START FEYNMAN <<<*/
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   display: flex;
   flex-direction: column;
   align-items: center;
