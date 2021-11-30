@@ -31,6 +31,9 @@
   top: 30px;
   left: 64px;
   position: absolute;
+  background-image: url(../images/logo_place_header.svg);
+  background-color: #f2f2f2;
+  background-size: 183px 32px;
 }
 
 .header__title {
@@ -290,8 +293,8 @@
   background-color: #1f1f1f;
   padding-top: 60px;
   padding-bottom: 40px;
-  min-height: 350px;
-  display: flex; /*убрать ессличо*/
+  min-height: 250px;
+  display: flex;
   justify-content: center;
 }
 
@@ -348,6 +351,7 @@
   padding: 0px;
   margin: 0px;
   padding-bottom: 16px;
+  line-height: 30px;
 }
 
 .footer__social-icon {
