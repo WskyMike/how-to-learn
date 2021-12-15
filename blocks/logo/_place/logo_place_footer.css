@@ -1,9 +1,6 @@
 .logo_place_footer {
   background-image: url(../../../images/logo_place_footer.svg);
   background-color: #1f1f1f;
-  position: absolute;
-  top: 0px;
-  left: 0px;
   transition: all 0.5s linear;
   opacity: 1;
 }

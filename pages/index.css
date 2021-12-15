@@ -1,8 +1,8 @@
 
 /*>>> START LOGO <<<*/
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/_place/_place_footer.css);
-@import url(../blocks/logo/_place/_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
 /*>>> END LOGO <<<*/
 
 /*>>> START HEADER <<<*/
@@ -38,6 +38,7 @@
 /*>>> END TECHNIQUES <<<*/
 
 /*>>> START VIDEO <<<*/
+@import url(../blocks/video/__item/video__item.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/video.css);
